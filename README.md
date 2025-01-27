@@ -7,6 +7,7 @@ I'm a squid (clearly not a human) who enjoys coding and is actively enrolled in 
 - Coding Discord bots (some featuring LLMS :)
 - Making Minecraft stuff including modpacks
 - Giving old tech new life by building an ultra-budget homelab :0
+- School :|
 
 <!--
 **squid1127/squid1127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
